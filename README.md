@@ -23,3 +23,6 @@ Can you find any seasonal trends or patterns in the sales data?
 - At $169,856, Maven Toys Ciudad de Mexico 2 had the highest Profit and was 80.66% higher than Maven Toys Ciudad de Mexico 3, which had the lowest Profit at $94,021.
   
 - Across all 10 Product, the Profit ranged from $121,680 to $834,944.
+
+
+https://app.powerbi.com/reportEmbed?reportId=279db3fe-46f1-4c67-8297-7ddb9c7e3bcc&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde
