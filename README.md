@@ -15,9 +15,9 @@ Can you find any seasonal trends or patterns in the sales data?
 
 
 ﻿The 2nd (Q2) had the highest total of Sales at $4,476,732.909997369, followed by the first (Q1) at 4,026,735.80 and the third (Q3) at 3,778,721.41.﻿﻿
-﻿﻿
+ 
 ﻿﻿ The Sales and total of Profit are positively correlated with each other.﻿﻿
-﻿﻿
+   
 ﻿﻿ In 2018 made up 17.04% of Sales.﻿﻿
    
 ﻿﻿At $169,856, Maven Toys Ciudad de Mexico 2 had the highest Profit and was 80.66% higher than Maven Toys Ciudad de Mexico 3, which had the lowest Profit at $94,021.﻿﻿
