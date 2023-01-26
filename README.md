@@ -25,4 +25,4 @@ Can you find any seasonal trends or patterns in the sales data?
 - Across all 10 Product, the Profit ranged from $121,680 to $834,944.
 
 
-https://app.powerbi.com/reportEmbed?reportId=279db3fe-46f1-4c67-8297-7ddb9c7e3bcc&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde
+[Power BI Repport](https://app.powerbi.com/reportEmbed?reportId=279db3fe-46f1-4c67-8297-7ddb9c7e3bcc&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde)
