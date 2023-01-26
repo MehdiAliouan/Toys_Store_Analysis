@@ -1,7 +1,7 @@
 # Toys_Store_Analysis 
 
 #### Data on sales and inventory for Maven Toys, a fictitious chain of toy stores in Mexico, including information on products, stores, daily sales transactions, and current inventory levels at each location 
-#### the data was provided by Maven Analytics : https://www.mavenanalytics.io/data-playground?page=3
+#### the data was provided by : [Maven Analytics](https://www.mavenanalytics.io/data-playground?page=3)
 #### I'm trying to answer these business questions: 
 
 Which product categories drive the biggest profits? 
