@@ -29,3 +29,4 @@ Can you find any seasonal trends or patterns in the sales data?
 
 
 ![Toys_Store](https://user-images.githubusercontent.com/91919362/215819206-7928dc7e-efeb-4599-87f9-5f7167e9e1af.jpg)
+
