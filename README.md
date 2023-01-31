@@ -26,3 +26,6 @@ Can you find any seasonal trends or patterns in the sales data?
 
 
 [Power BI Repport](https://app.powerbi.com/reportEmbed?reportId=279db3fe-46f1-4c67-8297-7ddb9c7e3bcc&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde)
+
+
+![Toys_Store](https://user-images.githubusercontent.com/91919362/215819206-7928dc7e-efeb-4599-87f9-5f7167e9e1af.jpg)
