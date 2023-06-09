@@ -25,7 +25,7 @@ Can you find any seasonal trends or patterns in the sales data?
 - Across all 10 Product, the Profit ranged from $121,680 to $834,944.
 
 
-[Power BI Repport](https://app.powerbi.com/reportEmbed?reportId=279db3fe-46f1-4c67-8297-7ddb9c7e3bcc&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde)
+[Power BI Repport](https://app.powerbi.com/view?r=eyJrIjoiNmY3YzAzOTAtMzBjNC00ODc4LWExOTAtZTk0NmE2MTc5ZThhIiwidCI6IjNhYjAwNGM4LTE0ZWMtNDdkOS05MTk5LTM5ZWU4ODVhOGE5ZiJ9)
 
 
 ![Toys_Store](https://user-images.githubusercontent.com/91919362/215819206-7928dc7e-efeb-4599-87f9-5f7167e9e1af.jpg)=
